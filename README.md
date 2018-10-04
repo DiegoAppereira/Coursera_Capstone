@@ -16,7 +16,7 @@ Describe the data that you will be using to solve the problem or execute your id
 
 This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
 
-#Section 1: Introduction/Business Problem
+# Section 1: Introduction/Business Problem
 
 
 Imagine the following scenario:
@@ -59,7 +59,7 @@ There are many data science aspect of this project including:
 
 Now that the we know what is the problem Lets See about the Data Section and how we can get all the information needed.
 
-#Section 2: Methodology
+# Section 2: Methodology
 Data Description
 
 In this section, I will describe the data used to solve the problem as described previously.
