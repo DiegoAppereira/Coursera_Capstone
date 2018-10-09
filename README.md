@@ -6,7 +6,7 @@ I Am Describe below my project and original project.
 By Diego A Pereira.
 
 
-# Section 1: Introduction/Business Problem
+# Section 1: Business Problem/Scenario
 
 
 Business Scenario for Turism
