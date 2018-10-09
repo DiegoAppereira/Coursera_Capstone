@@ -2,11 +2,6 @@
 
 Capstone Project - The Battle of Neighborhoods (Week 1)
 
-This file, and other associated files, make up my contribution to the final Peer Reviewed Assignment for the Coursera Capstone Project for Applied Data Science Capstone. This was my final module in the IBM Data Science Professional Certificate program.
-
-For reference I include the original definition for each part of the assignment.
-Part 1
-
 I Am Describe below my project and original project.
 By Diego A Pereira.
 
